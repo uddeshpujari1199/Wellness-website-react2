@@ -1,0 +1,17 @@
+.Heading{
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+.Heading p{
+    margin: 0;
+    padding: 0;
+}
+.Heading h1{
+    margin: 0;
+    padding: 0;
+}
+.yoga-img{
+    width: 100vw;
+    height: 100%;
+    padding: 20px 0px 20px 0px;
+}

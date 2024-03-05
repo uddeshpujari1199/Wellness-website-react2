@@ -1,0 +1,23 @@
+.Navbar{
+    width: 100%;
+    display: flex;
+    cursor: pointer;
+    /* background-color: gray; */
+    
+}
+
+.Nav-Home{
+    background-color: #E30B5C;
+    width: 20%;
+    text-align: center;
+    padding: 10px 0px;
+    color: #ffffff;
+}
+.restFour{
+    width: 80%;
+    background-color: #D3D3D3;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0px;
+    color: #ffffff;
+}

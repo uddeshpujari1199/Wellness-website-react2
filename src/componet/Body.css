@@ -1,0 +1,15 @@
+.Heading-Ele{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #E30B5C;
+    color: #ffffff;
+}
+.body-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;   
+}
+.body-para{
+    padding: 20px;
+}
